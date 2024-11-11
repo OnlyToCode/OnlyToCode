@@ -1,4 +1,6 @@
 ## Hi there 👋
+- 🌱 I’m currently learning because I'm still Student...
+- I've run out of ideas to write here, so feel free to view and comment anywhere you want....
 
 <!--
 **OnlyToCode/OnlyToCode** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
